@@ -2,7 +2,7 @@
 
 ## Overview  
 
-I recently undertook a project with a DVD rental company that sought my expertise in predicting how many days a customer would rent a DVD based on various features. The goal was to develop regression models that could meet their requirement of achieving a Mean Squared Error (MSE) of 3 or less on a test set. The model I built will ultimately help the company enhance its inventory planning and improve overall efficiency.  
+I recently undertook a project with a DVD rental company that sought my expertise in predicting how many days a customer would rent a DVD based on various features. The goal was to develop regression models that could meet their requirement of achieving a Mean Squared Error (MSE) of 3 or less on a test set. The model I built ultimately helped the company enhance its inventory planning and improve overall efficiency.  
 
 ## Data Source  
 
